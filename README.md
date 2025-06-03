@@ -8,8 +8,8 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://api.whatsapp.com/send/?phone=255745411096&text&app_absent=0" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+    <a href="mailto:info@sovex.cc">
+        <img src="https://img.shields.io/badge/Email%20us-3A76F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email us at info@sovex.cc">
     </a>
 </div>
 
