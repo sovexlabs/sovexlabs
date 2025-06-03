@@ -15,7 +15,9 @@
 
 ---
 
-# 👋 Hey there! We're SoveX 🚀
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&color=7E57C2&lines=Hi!+We're+SoveX+👋" />
+</h1>
 
 **Mission:**  
 We're on a mission to build tech solutions that solve real-life problems in emerging markets — starting local, scaling global.
